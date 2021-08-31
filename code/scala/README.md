@@ -1,3 +1,3 @@
-# NewTest3__internal
+# TestProjectForGeorge__internal
 
-NewTest3__internal repository
+TestProjectForGeorge__internal repository
